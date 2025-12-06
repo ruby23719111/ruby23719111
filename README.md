@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Kris (Chia-Chi Hsu)
 
-<!--
-**ruby23719111/ruby23719111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of IT student @ QUT  
+💡 Passionate about frontend development, UX/UI design, and building meaningful AI-powered tools.  
+🛠 Recently won **“Most Viable Award”** at the TANDA GenAI Hackathon (OHS Incident Reporting System).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Recent Projects
+- **SafeMind – OHS Incident Reporting System (AI-powered)**  
+  _TANDA GenAI Hackathon — Most Viable Award_  
+- Interactive prototypes and UX case studies (QUT HCD courses)  
+- Building personal website & portfolio in progress  
+
+---
+
+## 🤝 Let's connect
+- 🌐 LinkedIn: [in/kris-hsu](https://www.linkedin.com/in/kris-hsu)  
+- 💬 Always happy to chat about UX, front-end, AI, hackathons, and cross-disciplinary careers  
