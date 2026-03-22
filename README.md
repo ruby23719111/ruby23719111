@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kris Hsu.
 
-🎓 Master of IT student @ QUT  
+🎓 Final-year Master of IT student @ QUT  
 💡 Passionate about frontend development, UX/UI design, and building meaningful AI-powered tools.  
 🛠 Recently won **“Most Viable Award”** at the TANDA GenAI Hackathon (OHS Incident Reporting System).  
 
