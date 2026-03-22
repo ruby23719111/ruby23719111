@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kris (Chia-Chi) Hsu
+# 👋 Hi, I'm Kris Hsu.
 
 🎓 Master of IT student @ QUT  
 💡 Passionate about frontend development, UX/UI design, and building meaningful AI-powered tools.  
