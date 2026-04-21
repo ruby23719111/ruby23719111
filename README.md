@@ -16,4 +16,4 @@
 
 ## 🤝 Let's connect
 - 🌐 LinkedIn: [in/kris-hsu](https://www.linkedin.com/in/kris-hsu)  
-- 💬 Always happy to chat about UX, front-end, AI, hackathons, and cross-disciplinary careers  
+- 💬 Always happy to chat about product design, AI, hackathons, and cross-disciplinary careers  
